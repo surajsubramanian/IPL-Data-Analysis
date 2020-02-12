@@ -11,7 +11,7 @@ How does the decision taken during a toss affect the outcome of the match ?
 
 This varies with the venue at which the match takes place too ..
 
-<img src = "./images/batsmanVSbowler.png">
+<img src = "./images/toss_decisions_by_venue.png">
 
 ## Batsman vs Bowler matchup
 
