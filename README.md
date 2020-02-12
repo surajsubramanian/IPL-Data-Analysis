@@ -7,7 +7,7 @@ I have performed interesting data analysis on IPL datasets I downloaded from the
 
 How does the decision taken during a toss affect the outcome of the match ?
 
-<img src = "./images/toss_decsions.png">
+<img src = "./images/toss_decisions.png">
 
 This varies with the venue at which the match takes place too ..
 
